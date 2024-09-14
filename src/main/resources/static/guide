@@ -1,0 +1,4 @@
+whenever the address microservice starts up, it starts by fetching the registry by hitting the disccvery service url:
+(http://localhost:8761/eureka/apps)
+
+
